@@ -7,4 +7,4 @@ A documentação deve ser escrita utilizando-se de Markdown.
 
 ## Drive de Arquivos
 Os documentos do Laboratório devem ser anexados ao Drive do Google.
-[I'm an inline-style link](https://drive.google.com/drive/folders/1UH2-lPwtP0m2cash1Fke2neUyuaGuCAq)
+[Clique aqui e acesse o Drive de Arquivos](https://drive.google.com/drive/folders/1UH2-lPwtP0m2cash1Fke2neUyuaGuCAq)
